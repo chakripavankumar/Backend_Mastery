@@ -1,0 +1,13 @@
+{
+  "name": "exportsmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayOfModule.js",
+  "scripts": {
+    "dev": "node arrayOfModule.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

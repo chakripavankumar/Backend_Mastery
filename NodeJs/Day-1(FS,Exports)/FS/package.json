@@ -1,0 +1,13 @@
+{
+  "name": "fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utf-8.js",
+  "scripts": {
+    "dev": "node utf-8.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
