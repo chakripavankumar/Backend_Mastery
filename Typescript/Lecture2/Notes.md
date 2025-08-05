@@ -149,7 +149,7 @@ You must match the **type structure** strictly, or TypeScript will throw an erro
 
 A type alias lets you **reuse complex types** with a custom name.
 
-### ✅ Example
+ ✅ Example
 
 ```ts
 type User = {
@@ -175,7 +175,7 @@ const u1: User = {
 
 You can define **types for functions** using a `type`.
 
-### ✅ Example
+ ✅ Example
 
 ```ts
 type MathOperation = (a: number, b: number) => number;
@@ -232,7 +232,7 @@ console.log(status); // SUCCESS
 
 ---
 
-## ✅ Summary Table:
+## ✅ Summary Table
 
 | Concept                 | Feature Type              | Purpose / Use Case                       |
 | ----------------------- | ------------------------- | ---------------------------------------- |
